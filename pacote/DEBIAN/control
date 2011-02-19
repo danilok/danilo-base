@@ -1,0 +1,11 @@
+Package: danilo-base
+Priority: important
+Section: main
+Version: 
+Maintainer: Danilo Yorinori <danilo.mega@gmail.com>
+Description: Pacote que instala pacotes essenciais (para mim)
+Architecture: i386
+Depends: vim, vlc, mplayer, pidgin, chromium-browser, build-essential,
+ virtualbox-ose, virtualbox-ose-dkms, virtualbox-ose-fuse, unrar, git-all,
+ virtualbox-ose-guest-utils, virtualbox-ose-guest-x11, gqview, myspell-pt-br,
+ ssh, gimp, inkscape, imagemagick, xpdf
